@@ -1,3 +1,7 @@
-Start 
-npm i
+## Install
+```sh
+npm install 
+```
+```sh
 npm run start
+```
