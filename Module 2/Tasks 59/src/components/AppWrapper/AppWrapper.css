@@ -1,0 +1,16 @@
+.app-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: #f0f0f0; /* Додайте бажаний колір фону */
+    padding: 20px; /* Невеликі відступи по краях сторінки */
+  }
+  
+  .title-wrapper {
+    margin-bottom: 20px; /* Відступ між заголовком і вмістом */
+  }
+  
+  .content-wrapper {
+    width: 100%;
+  }
